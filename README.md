@@ -1,2 +1,2 @@
 # tictactoe
-A basic tic tac toe game.
+Tic Tac Toe game created using Python.
